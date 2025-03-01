@@ -1,0 +1,78 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    background: linear-gradient(135deg, #1e1e2f, #3a3a5d);
+}
+
+.form-container {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    width: 400px;
+    color: white;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+    .form-group input, .form-group select {
+        width: 100%;
+        padding: 12px;
+        border: none;
+        outline: none;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 5px;
+        color: white;
+    }
+
+    .form-group label {
+        position: absolute;
+        top: 50%;
+        left: 15px;
+        transform: translateY(-50%);
+        font-size: 14px;
+        transition: 0.3s;
+        pointer-events: none;
+        color: rgba(255, 255, 255, 0.7);
+    }
+
+    .form-group input:focus ~ label, .form-group input:valid ~ label {
+        top: 5px;
+        font-size: 12px;
+        color: white;
+    }
+
+    .form-group i {
+        position: absolute;
+        top: 50%;
+        right: 15px;
+        transform: translateY(-50%);
+        color: rgba(255, 255, 255, 0.5);
+    }
+
+.btn {
+    width: 100%;
+    padding: 12px;
+    background: #ff7eb3;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+    .btn:hover {
+        background: #ff5281;
+    }

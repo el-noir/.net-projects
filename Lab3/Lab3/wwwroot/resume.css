@@ -1,0 +1,135 @@
+﻿body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.4;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.resume {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.header-content {
+    flex: 1;
+}
+
+header h1 {
+    font-size: 2.2em;
+    margin: 0;
+    color: #2c3e50;
+}
+
+header h2 {
+    font-size: 1.4em;
+    margin: 5px 0;
+    color: #555;
+}
+
+header .contact-info {
+    font-size: 0.9em;
+    color: #555;
+}
+
+    header .contact-info i {
+        margin-right: 8px;
+        color: #3498db;
+    }
+
+.profile-picture img {
+    border-radius: 50%;
+    border: 3px solid #3498db;
+}
+
+.main-content {
+    display: flex;
+    gap: 20px;
+}
+
+.left-section {
+    flex: 1;
+}
+
+.right-section {
+    flex: 2;
+}
+
+h3 {
+    font-size: 1.2em;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+    margin-top: 15px;
+    color: #2c3e50;
+}
+
+    h3 i {
+        margin-right: 8px;
+        color: #3498db;
+    }
+
+.education p {
+    margin: 5px 0;
+    font-size: 0.9em;
+}
+
+.expertise ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+    .expertise ul li {
+        margin: 5px 0;
+        font-size: 0.9em;
+    }
+
+.language ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+    .language ul li {
+        margin: 5px 0;
+        font-size: 0.9em;
+    }
+
+.profile p {
+    margin: 10px 0;
+    font-size: 0.9em;
+    line-height: 1.5;
+}
+
+.work-experience .job {
+    margin-bottom: 15px;
+}
+
+    .work-experience .job p {
+        margin: 5px 0;
+        font-size: 0.9em;
+    }
+
+    .work-experience .job ul {
+        list-style-type: disc;
+        margin: 10px 0 10px 20px;
+        font-size: 0.9em;
+    }
+.references .reference {
+    margin-bottom: 15px;
+}
+
+    .references .reference p {
+        margin: 5px 0;
+        font-size: 0.9em;
+    }

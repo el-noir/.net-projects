@@ -1,0 +1,949 @@
+{
+  "Version": 1,
+  "Hash": "ccIrzKk56WosHEuyvXt08rmzwGskHqTy1WalZalF1Rs=",
+  "Source": "Lab3",
+  "BasePath": "_content/Lab3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab3\\wwwroot",
+      "Source": "Lab3",
+      "ContentRoot": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\",
+      "BasePath": "_content/Lab3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Lab3.styles.css",
+      "SourceId": "Lab3",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Lab3",
+      "RelativePath": "Lab3#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "bmcu72uul9",
+      "Integrity": "Y6pWw53AszNYQVfMPCaX3RwRrGD50uc4KnUwaeDFLro=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Lab3.styles.css"
+    },
+    {
+      "Identity": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab3.bundle.scp.css",
+      "SourceId": "Lab3",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Lab3",
+      "RelativePath": "Lab3#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "bmcu72uul9",
+      "Integrity": "Y6pWw53AszNYQVfMPCaX3RwRrGD50uc4KnUwaeDFLro=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab3.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\ab6761610000e5ebecddf4e9db3637257468860e.jpg",
+      "SourceId": "Lab3",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\",
+      "BasePath": "_content/Lab3",
+      "RelativePath": "ab6761610000e5ebecddf4e9db3637257468860e#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "46wxz5zsxc",
+      "Integrity": "5HciG65q6K/e9i9Gqy1lhBPCHbmj9tSWhiSrX1OyXYA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ab6761610000e5ebecddf4e9db3637257468860e.jpg"
+    },
+    {
+      "Identity": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\app.css",
+      "SourceId": "Lab3",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\",
+      "BasePath": "_content/Lab3",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qota8drqae",
+      "Integrity": "Nr9VDQnDn4GC2UWbBgMPXqW54JHnlcz2WYgYrCr3jIg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "Lab3",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\",
+      "BasePath": "_content/Lab3",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8in41s0nhc",
+      "Integrity": "AF9wlJkHXH/bIWwIBIiR7Dn6jtK5aVyigSlW6PIH+1g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "Lab3",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\",
+      "BasePath": "_content/Lab3",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\favicon.png",
+      "SourceId": "Lab3",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\",
+      "BasePath": "_content/Lab3",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\form.css",
+      "SourceId": "Lab3",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\",
+      "BasePath": "_content/Lab3",
+      "RelativePath": "form#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ru700stfos",
+      "Integrity": "w6eMKK84B+QeINgNYEudvzQd2DAEOEK2xG1fGHyt7Zc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\form.css"
+    },
+    {
+      "Identity": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\resume.css",
+      "SourceId": "Lab3",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\",
+      "BasePath": "_content/Lab3",
+      "RelativePath": "resume#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zmeku060pf",
+      "Integrity": "G8UOyAHsoF15JqJ66UHXq+wuVlAJ0lyvBEdFGZfrZ3c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resume.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "ab6761610000e5ebecddf4e9db3637257468860e.46wxz5zsxc.jpg",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\ab6761610000e5ebecddf4e9db3637257468860e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5HciG65q6K/e9i9Gqy1lhBPCHbmj9tSWhiSrX1OyXYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 13:58:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "46wxz5zsxc"
+        },
+        {
+          "Name": "label",
+          "Value": "ab6761610000e5ebecddf4e9db3637257468860e.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5HciG65q6K/e9i9Gqy1lhBPCHbmj9tSWhiSrX1OyXYA="
+        }
+      ]
+    },
+    {
+      "Route": "ab6761610000e5ebecddf4e9db3637257468860e.jpg",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\ab6761610000e5ebecddf4e9db3637257468860e.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5HciG65q6K/e9i9Gqy1lhBPCHbmj9tSWhiSrX1OyXYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 13:58:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5HciG65q6K/e9i9Gqy1lhBPCHbmj9tSWhiSrX1OyXYA="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nr9VDQnDn4GC2UWbBgMPXqW54JHnlcz2WYgYrCr3jIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 13:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nr9VDQnDn4GC2UWbBgMPXqW54JHnlcz2WYgYrCr3jIg="
+        }
+      ]
+    },
+    {
+      "Route": "app.qota8drqae.css",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nr9VDQnDn4GC2UWbBgMPXqW54JHnlcz2WYgYrCr3jIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 13:23:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qota8drqae"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nr9VDQnDn4GC2UWbBgMPXqW54JHnlcz2WYgYrCr3jIg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.8in41s0nhc.css",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AF9wlJkHXH/bIWwIBIiR7Dn6jtK5aVyigSlW6PIH+1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 13:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8in41s0nhc"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AF9wlJkHXH/bIWwIBIiR7Dn6jtK5aVyigSlW6PIH+1g="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AF9wlJkHXH/bIWwIBIiR7Dn6jtK5aVyigSlW6PIH+1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 13:35:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AF9wlJkHXH/bIWwIBIiR7Dn6jtK5aVyigSlW6PIH+1g="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 12:37:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 12:37:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 12:37:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 12:37:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "form.css",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\form.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w6eMKK84B+QeINgNYEudvzQd2DAEOEK2xG1fGHyt7Zc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:14:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w6eMKK84B+QeINgNYEudvzQd2DAEOEK2xG1fGHyt7Zc="
+        }
+      ]
+    },
+    {
+      "Route": "form.ru700stfos.css",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\form.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w6eMKK84B+QeINgNYEudvzQd2DAEOEK2xG1fGHyt7Zc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:14:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ru700stfos"
+        },
+        {
+          "Name": "label",
+          "Value": "form.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w6eMKK84B+QeINgNYEudvzQd2DAEOEK2xG1fGHyt7Zc="
+        }
+      ]
+    },
+    {
+      "Route": "Lab3.bmcu72uul9.bundle.scp.css",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab3.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y6pWw53AszNYQVfMPCaX3RwRrGD50uc4KnUwaeDFLro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 12:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bmcu72uul9"
+        },
+        {
+          "Name": "label",
+          "Value": "Lab3.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y6pWw53AszNYQVfMPCaX3RwRrGD50uc4KnUwaeDFLro="
+        }
+      ]
+    },
+    {
+      "Route": "Lab3.bmcu72uul9.styles.css",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Lab3.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y6pWw53AszNYQVfMPCaX3RwRrGD50uc4KnUwaeDFLro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 12:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bmcu72uul9"
+        },
+        {
+          "Name": "label",
+          "Value": "Lab3.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y6pWw53AszNYQVfMPCaX3RwRrGD50uc4KnUwaeDFLro="
+        }
+      ]
+    },
+    {
+      "Route": "Lab3.bundle.scp.css",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab3.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y6pWw53AszNYQVfMPCaX3RwRrGD50uc4KnUwaeDFLro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 12:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y6pWw53AszNYQVfMPCaX3RwRrGD50uc4KnUwaeDFLro="
+        }
+      ]
+    },
+    {
+      "Route": "Lab3.styles.css",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Lab3.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5891"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y6pWw53AszNYQVfMPCaX3RwRrGD50uc4KnUwaeDFLro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 12:39:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y6pWw53AszNYQVfMPCaX3RwRrGD50uc4KnUwaeDFLro="
+        }
+      ]
+    },
+    {
+      "Route": "resume.css",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\resume.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G8UOyAHsoF15JqJ66UHXq+wuVlAJ0lyvBEdFGZfrZ3c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:20:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G8UOyAHsoF15JqJ66UHXq+wuVlAJ0lyvBEdFGZfrZ3c="
+        }
+      ]
+    },
+    {
+      "Route": "resume.zmeku060pf.css",
+      "AssetFile": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\resume.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G8UOyAHsoF15JqJ66UHXq+wuVlAJ0lyvBEdFGZfrZ3c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 14:20:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zmeku060pf"
+        },
+        {
+          "Name": "label",
+          "Value": "resume.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G8UOyAHsoF15JqJ66UHXq+wuVlAJ0lyvBEdFGZfrZ3c="
+        }
+      ]
+    }
+  ]
+}

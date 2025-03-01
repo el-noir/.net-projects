@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Lab3.bmcu72uul9.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\ab6761610000e5ebecddf4e9db3637257468860e.jpg",
+      "PackagePath": "staticwebassets\\ab6761610000e5ebecddf4e9db3637257468860e.jpg"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\form.css",
+      "PackagePath": "staticwebassets\\form.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\Lab3\\Lab3\\wwwroot\\resume.css",
+      "PackagePath": "staticwebassets\\resume.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lab3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lab3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Lab3.props",
+      "PackagePath": "build\\Lab3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Lab3.props",
+      "PackagePath": "buildMultiTargeting\\Lab3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Lab3.props",
+      "PackagePath": "buildTransitive\\Lab3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
