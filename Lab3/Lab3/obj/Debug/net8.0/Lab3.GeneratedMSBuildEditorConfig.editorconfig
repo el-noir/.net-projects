@@ -24,6 +24,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Academia/4th Semester/Visual Programming/.Net/Lab3/Lab3/Components/Pages/Classroom.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDbGFzc3Jvb20ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Academia/4th Semester/Visual Programming/.Net/Lab3/Lab3/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

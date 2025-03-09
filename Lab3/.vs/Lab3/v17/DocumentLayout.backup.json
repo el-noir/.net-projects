@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\components\\pages\\classroom.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\components\\pages\\classroom.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\wwwroot\\classroom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\wwwroot\\classroom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\components\\pages\\resume.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\components\\pages\\resume.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\wwwroot\\resume.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\wwwroot\\resume.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\wwwroot\\form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\wwwroot\\form.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\components\\pages\\form.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\components\\pages\\form.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\wwwroot\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\wwwroot\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|d:\\academia\\4th semester\\visual programming\\.net\\lab3\\lab3\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6977470-CC24-48BB-9347-FDE60FB63BE0}|Lab3\\Lab3.csproj|solutionrelative:lab3\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "classroom.css",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\wwwroot\\classroom.css",
+              "RelativeDocumentMoniker": "Lab3\\wwwroot\\classroom.css",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\wwwroot\\classroom.css",
+              "RelativeToolTip": "Lab3\\wwwroot\\classroom.css",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-07T16:49:24.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Classroom.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Classroom.razor",
+              "RelativeDocumentMoniker": "Lab3\\Components\\Pages\\Classroom.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Classroom.razor",
+              "RelativeToolTip": "Lab3\\Components\\Pages\\Classroom.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T09:07:42.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Lab3\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Lab3\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:46:34.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Form.razor",
+              "RelativeDocumentMoniker": "Lab3\\Components\\Pages\\Form.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Form.razor",
+              "RelativeToolTip": "Lab3\\Components\\Pages\\Form.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:46:09.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Lab3\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Lab3\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:44:18.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Lab3\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Lab3\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:43:48.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Lab3\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Lab3\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:43:21.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Lab3\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "Lab3\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-27T13:15:10.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "Lab3\\wwwroot\\app.css",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\wwwroot\\app.css",
+              "RelativeToolTip": "Lab3\\wwwroot\\app.css",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-27T13:14:19.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resume.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Resume.razor",
+              "RelativeDocumentMoniker": "Lab3\\Components\\Pages\\Resume.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Resume.razor",
+              "RelativeToolTip": "Lab3\\Components\\Pages\\Resume.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T13:34:36.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "form.css",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\wwwroot\\form.css",
+              "RelativeDocumentMoniker": "Lab3\\wwwroot\\form.css",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\wwwroot\\form.css",
+              "RelativeToolTip": "Lab3\\wwwroot\\form.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-27T13:40:43.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "resume.css",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\wwwroot\\resume.css",
+              "RelativeDocumentMoniker": "Lab3\\wwwroot\\resume.css",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\wwwroot\\resume.css",
+              "RelativeToolTip": "Lab3\\wwwroot\\resume.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-27T13:42:59.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "favicon.png",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "Lab3\\wwwroot\\favicon.png",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\wwwroot\\favicon.png",
+              "RelativeToolTip": "Lab3\\wwwroot\\favicon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-27T13:14:21.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Lab3\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Lab3\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:48:12.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Lab3\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Lab3\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:44:22.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Lab3\\Components\\Routes.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\Lab3\\Lab3\\Components\\Routes.razor",
+              "RelativeToolTip": "Lab3\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:47:00.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
