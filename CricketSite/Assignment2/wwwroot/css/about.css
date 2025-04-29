@@ -1,0 +1,19 @@
+﻿.about-section {
+    background-color: #f8f9fa;
+    padding: 3rem 0;
+    margin-bottom: 2rem;
+}
+
+.section-title {
+    color: #0d6efd;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+}
+
+.section-text {
+    color: #333;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+

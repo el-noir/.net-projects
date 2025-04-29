@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|d:\\academia\\4th semester\\visual programming\\neww\\assignment2\\assignment2\\assignment2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|d:\\academia\\4th semester\\visual programming\\neww\\assignment2\\assignment2\\assignment2\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|d:\\academia\\4th semester\\visual programming\\neww\\assignment2\\assignment2\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|d:\\academia\\4th semester\\visual programming\\neww\\assignment2\\assignment2\\assignment2\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|d:\\academia\\4th semester\\visual programming\\neww\\assignment2\\assignment2\\assignment2\\assignment2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\assignment2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|d:\\academia\\4th semester\\visual programming\\neww\\assignment2\\assignment2\\assignment2\\wwwroot\\css\\players.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\wwwroot\\css\\players.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|d:\\academia\\4th semester\\visual programming\\neww\\assignment2\\assignment2\\assignment2\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|d:\\academia\\4th semester\\visual programming\\neww\\assignment2\\assignment2\\assignment2\\wwwroot\\css\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\wwwroot\\css\\footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|d:\\academia\\4th semester\\visual programming\\neww\\assignment2\\assignment2\\assignment2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|d:\\academia\\4th semester\\visual programming\\neww\\assignment2\\assignment2\\assignment2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EAC7030-EFBD-4AD9-A564-C2D7B77C491D}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Assignment2\\Components\\App.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\Components\\App.razor",
+              "RelativeToolTip": "Assignment2\\Components\\App.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:31:52.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Program.cs",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\Program.cs",
+              "RelativeToolTip": "Assignment2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:30:41.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Assignment2",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj",
+              "RelativeDocumentMoniker": "Assignment2\\Assignment2.csproj",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj",
+              "RelativeToolTip": "Assignment2\\Assignment2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T19:29:06.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Assignment2\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Assignment2\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:00:19.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Assignment2\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Assignment2\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:00:18.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Assignment2\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Assignment2\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-29T18:58:30.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Footer.css",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\css\\Footer.css",
+              "RelativeDocumentMoniker": "Assignment2\\wwwroot\\css\\Footer.css",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\css\\Footer.css",
+              "RelativeToolTip": "Assignment2\\wwwroot\\css\\Footer.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-29T18:58:03.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "players.css",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\css\\players.css",
+              "RelativeDocumentMoniker": "Assignment2\\wwwroot\\css\\players.css",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\css\\players.css",
+              "RelativeToolTip": "Assignment2\\wwwroot\\css\\players.css",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-29T18:57:43.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "about.css",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\css\\about.css",
+              "RelativeDocumentMoniker": "Assignment2\\wwwroot\\css\\about.css",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\css\\about.css",
+              "RelativeToolTip": "Assignment2\\wwwroot\\css\\about.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-29T18:57:16.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Assignment2\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Assignment2\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAABoBAAAAAAAAAAAmwCYBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T18:45:11.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

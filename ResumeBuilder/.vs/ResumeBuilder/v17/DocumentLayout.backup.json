@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|d:\\academia\\4th semester\\visual programming\\.net\\resumebuilder\\resumebuilder\\components\\pages\\form.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|solutionrelative:resumebuilder\\components\\pages\\form.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|d:\\academia\\4th semester\\visual programming\\.net\\resumebuilder\\resumebuilder\\components\\pages\\resume.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|solutionrelative:resumebuilder\\components\\pages\\resume.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|d:\\academia\\4th semester\\visual programming\\.net\\resumebuilder\\resumebuilder\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|solutionrelative:resumebuilder\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|d:\\academia\\4th semester\\visual programming\\.net\\resumebuilder\\resumebuilder\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|solutionrelative:resumebuilder\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|d:\\academia\\4th semester\\visual programming\\.net\\resumebuilder\\resumebuilder\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|solutionrelative:resumebuilder\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|d:\\academia\\4th semester\\visual programming\\.net\\resumebuilder\\resumebuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|solutionrelative:resumebuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|d:\\academia\\4th semester\\visual programming\\.net\\resumebuilder\\resumebuilder\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D869281-6F60-40C1-9148-8FBC05FAB9CD}|ResumeBuilder\\ResumeBuilder.csproj|solutionrelative:resumebuilder\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Components\\App.razor",
+              "RelativeDocumentMoniker": "ResumeBuilder\\Components\\App.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Components\\App.razor",
+              "RelativeToolTip": "ResumeBuilder\\Components\\App.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T04:36:36.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "ResumeBuilder\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Components\\_Imports.razor",
+              "RelativeToolTip": "ResumeBuilder\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T04:00:53.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Components\\Pages\\Form.razor",
+              "RelativeDocumentMoniker": "ResumeBuilder\\Components\\Pages\\Form.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Components\\Pages\\Form.razor",
+              "RelativeToolTip": "ResumeBuilder\\Components\\Pages\\Form.razor",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAUwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T03:34:25.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resume.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Components\\Pages\\Resume.razor",
+              "RelativeDocumentMoniker": "ResumeBuilder\\Components\\Pages\\Resume.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Components\\Pages\\Resume.razor",
+              "RelativeToolTip": "ResumeBuilder\\Components\\Pages\\Resume.razor",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAUwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T03:34:59.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "ResumeBuilder\\Program.cs",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Program.cs",
+              "RelativeToolTip": "ResumeBuilder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:49:22.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ResumeBuilder\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ResumeBuilder\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwBoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T03:36:08.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "ResumeBuilder\\Components\\Routes.razor",
+              "ToolTip": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\Components\\Routes.razor",
+              "RelativeToolTip": "ResumeBuilder\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-23T04:02:31.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+﻿@page "/two-way"
+@rendermode InteractiveServer
+
+<h3>Two Way Binding</h3> 
+
+ <p>Slider Value: <b>@SliderValue</b></p> 
+
+<input type="range" min="0" max="100" step="1" @bind="SliderValue" @bind:event="oninput" /> 
+
+ @code { 
+     private int SliderValue = 0; 
+ }
+
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click Me</button>
+
+<div class="mt-3">
+    <input @onchange="OnChange">
+    <button @onclick="OnClick">Clear</button>
+    <p>@text</p>
+</div>
+
+
+@code{
+    private int currentCount= 0;
+    string text = "";
+
+    private void IncrementCount(MouseEventArgs e)
+    {
+        currentCount++;
+    }
+    private void OnChange(ChangeEventArgs e)
+    {
+        text = (string)e.Value!;
+    }
+
+    private void OnClick(MouseEventArgs e)
+    {
+        text = "";
+    }
+}

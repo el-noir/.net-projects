@@ -1,10 +1,12 @@
 using Lab3.Components;
+using Lab3.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+builder.Services.AddScoped<AuthState>();
 
 var app = builder.Build();
 

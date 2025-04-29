@@ -1,50 +1,150 @@
-﻿@page "/RegistrationForm"
-<h3>Registration Form</h3>
+﻿@* @page "/RegistrationForm" *@
+@* @using Microsoft.AspNetCore.Components.Forms *@
+@* @inject IJSRuntime JS *@
+
+@* <h3>Registration Form</h3> *@
+
+@* <div class="form-container"> *@
+@*     <EditForm Model="@UserForm" OnValidSubmit="HandleSubmit" FormName="RegistrationForm"> *@
+@*         <DataAnnotationsValidator /> *@
+
+@*         <div class="form-group"> *@
+@*             <input type="text" @bind="UserForm.FullName" required> *@
+@*             <label>Full Name</label> *@
+@*             <i class="fa fa-user"></i> *@
+@*         </div> *@
+@*         <div class="form-group"> *@
+@*             <input type="email" @bind="UserForm.Email" required> *@
+@*             <label>Email</label> *@
+@*             <i class="fa fa-envelope"></i> *@
+@*         </div> *@
+@*         <div class="form-group"> *@
+@*             <input type="password" @bind="UserForm.Password" required> *@
+@*             <label>Password</label> *@
+@*             <i class="fa fa-lock"></i> *@
+@*         </div> *@
+@*         <div class="form-group"> *@
+@*             <input type="tel" @bind="UserForm.PhoneNumber" required> *@
+@*             <label>Phone Number</label> *@
+@*             <i class="fa fa-phone"></i> *@
+@*         </div> *@
+
+@*         <button type="submit" class="btn">Submit</button> *@
+@*     </EditForm> *@
+@* </div> *@
+
+@* @if (IsSubmitted) *@
+@* { *@
+@*     <div class="results"> *@
+@*         <h4>Submitted Data:</h4> *@
+@*         <p><strong>Full Name:</strong> @UserForm.FullName</p> *@
+@*         <p><strong>Email:</strong> @UserForm.Email</p> *@
+@*         <p><strong>Password:</strong> @UserForm.Password</p> *@
+@*         <p><strong>Phone Number:</strong> @UserForm.PhoneNumber</p> *@
+@*     </div> *@
+@* } *@
+
+@* @code { *@
+@*     private UserModel UserForm { get; set; } = new UserModel(); *@
+@*     private bool IsSubmitted { get; set; } = false; *@
+@*     private bool IsRenderComplete { get; set; } = false; *@
+
+@*     protected override async Task OnAfterRenderAsync(bool firstRender) *@
+@*     { *@
+@*         if (firstRender) *@
+@*         { *@
+@*             IsRenderComplete = true; *@
+@*         } *@
+@*     } *@
+
+@*     private async Task HandleSubmit() *@
+@*     { *@
+@*         IsSubmitted = true; *@
+
+@*         if (IsRenderComplete) *@
+@*         { *@
+@*             await JS.InvokeVoidAsync("console.log", $"Submitted Data:\n Full Name: {UserForm.FullName}\n Email: {UserForm.Email}\n Password: {UserForm.Password}\n Phone Number: {UserForm.PhoneNumber}"); *@
+@*         } *@
+@*     } *@
+
+@*     private class UserModel *@
+@*     { *@
+@*         public string FullName { get; set; } = ""; *@
+@*         public string Email { get; set; } = ""; *@
+@*         public string Password { get; set; } = ""; *@
+@*         public string PhoneNumber { get; set; } = ""; *@
+@*     } *@
+@* } *@
+
+@page "/RegistrationForm"
+@using Microsoft.AspNetCore.Components.Forms
+@inject NavigationManager Navigation
+
+<EditForm Model="@ResumeData" OnValidSubmit="GenerateResume" @formname="ResumeForm">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="fullName">Full Name</label>
+        <InputText id="fullName" class="form-control" @bind-Value="ResumeData.FullName" />
+    </div>
+
+    <div class="form-group">
+        <label for="jobTitle">Job Title</label>
+        <InputText id="jobTitle" class="form-control" @bind-Value="ResumeData.JobTitle" />
+    </div>
+
+    <div class="form-group">
+        <label for="email">Email</label>
+        <InputText id="email" class="form-control" @bind-Value="ResumeData.Email" />
+    </div>
+
+    <div class="form-group">
+        <label for="phone">Phone</label>
+        <InputText id="phone" class="form-control" @bind-Value="ResumeData.Phone" />
+    </div>
+
+    <div class="form-group">
+        <label for="summary">Professional Summary</label>
+        <InputTextArea id="summary" class="form-control" @bind-Value="ResumeData.Summary" />
+    </div>
+
+    <div class="form-group">
+        <label for="education">Education</label>
+        <InputTextArea id="education" class="form-control" @bind-Value="ResumeData.Education" />
+    </div>
+
+    <div class="form-group">
+        <label for="experience">Work Experience</label>
+        <InputTextArea id="experience" class="form-control" @bind-Value="ResumeData.Experience" />
+    </div>
+
+    <div class="form-group">
+        <label for="skills">Skills</label>
+        <InputTextArea id="skills" class="form-control" @bind-Value="ResumeData.Skills" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Generate Resume</button>
+</EditForm>
 
 @code {
+    private ResumeModel ResumeData = new ResumeModel();
 
+    private void GenerateResume()
+    {
+        // Pass the user data to the Resume component via query parameters
+        Navigation.NavigateTo($"/resume?fullName={Uri.EscapeDataString(ResumeData.FullName)}&jobTitle={Uri.EscapeDataString(ResumeData.JobTitle)}&email={Uri.EscapeDataString(ResumeData.Email)}&phone={Uri.EscapeDataString(ResumeData.Phone)}&summary={Uri.EscapeDataString(ResumeData.Summary)}&education={Uri.EscapeDataString(ResumeData.Education)}&experience={Uri.EscapeDataString(ResumeData.Experience)}&skills={Uri.EscapeDataString(ResumeData.Skills)}");
+    }
+
+    public class ResumeModel
+    {
+        public string FullName { get; set; }
+        public string JobTitle { get; set; }
+        public string Email { get; set; }
+        public string Phone { get; set; }
+        public string Summary { get; set; }
+        public string Education { get; set; }
+        public string Experience { get; set; }
+        public string Skills { get; set; }
+    }
 }
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Next-Level Advanced Form</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-    <link rel="stylesheet" href="form.css">
-
-</head>
-<body>
-    <div class="form-container">
-        <form>
-            <div class="form-group">
-                <input type="text" required>
-                <label>Full Name</label>
-                <i class="fa fa-user"></i>
-            </div>
-            <div class="form-group">
-                <input type="email" required>
-                <label>Email</label>
-                <i class="fa fa-envelope"></i>
-            </div>
-            <div class="form-group">
-                <input type="password" required>
-                <label>Password</label>
-                <i class="fa fa-lock"></i>
-            </div>
-            <div class="form-group">
-                <input type="tel" required>
-                <label>Phone Number</label>
-                <i class="fa fa-phone"></i>
-            </div>
-            <div class="form-group">
-                <input type="file">
-                <label>Upload File</label>
-                <i class="fa fa-upload"></i>
-            </div>
-            <button class="btn">Submit</button>
-        </form>
-    </div>
-</body>
-</html>
-

@@ -1,0 +1,47 @@
+﻿@page "/authorize"
+
+<h3>Authorization Page</h3>
+
+@if (!IsAuthorized)
+{
+    <p>Access Denied. You are not authorized to view this content.</p>
+}
+else
+{
+    @if (role == UserRole.SuperAdmin)
+    {
+        <p>Welcome <b>Superadmin</b>, you have full access.</p>
+    }
+    else if (role == UserRole.User)
+    {
+        <p>Welcome <b>User</b>, you have limited access.</p>
+    }
+}
+
+@code {
+    private bool IsAuthorized = false;
+    private string username = "admin"; // Assume this was passed from login
+    private UserRole role;
+
+    // Simulated role data
+    private Dictionary<string, UserRole> userRoles = new()
+    {
+        { "admin", UserRole.SuperAdmin },
+        { "user", UserRole.User }
+    };
+
+    protected override void OnInitialized()
+    {
+        if (userRoles.TryGetValue(username, out var assignedRole))
+        {
+            IsAuthorized = true;
+            role = assignedRole;
+        }
+    }
+
+    enum UserRole
+    {
+        User,
+        SuperAdmin
+    }
+}

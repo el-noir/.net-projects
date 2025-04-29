@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ResumeBuilder.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ResumeBuilder.67ygld5afk.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\.Net\\ResumeBuilder\\ResumeBuilder\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ResumeBuilder.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ResumeBuilder.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ResumeBuilder.props",
+      "PackagePath": "build\\ResumeBuilder.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ResumeBuilder.props",
+      "PackagePath": "buildMultiTargeting\\ResumeBuilder.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ResumeBuilder.props",
+      "PackagePath": "buildTransitive\\ResumeBuilder.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

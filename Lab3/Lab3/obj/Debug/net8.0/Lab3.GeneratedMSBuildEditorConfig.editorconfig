@@ -24,6 +24,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Academia/4th Semester/Visual Programming/.Net/Lab3/Lab3/Components/Pages/Authorize.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdXRob3JpemUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Academia/4th Semester/Visual Programming/.Net/Lab3/Lab3/Components/Pages/Classroom.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDbGFzc3Jvb20ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,8 +48,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Academia/4th Semester/Visual Programming/.Net/Lab3/Lab3/Components/Pages/OneWayBinding.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPbmVXYXlCaW5kaW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Academia/4th Semester/Visual Programming/.Net/Lab3/Lab3/Components/Pages/Resume.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZXN1bWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Academia/4th Semester/Visual Programming/.Net/Lab3/Lab3/Components/Pages/SignIn.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaWduSW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Academia/4th Semester/Visual Programming/.Net/Lab3/Lab3/Components/Pages/TwoWayBinding.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUd29XYXlCaW5kaW5nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Academia/4th Semester/Visual Programming/.Net/Lab3/Lab3/Components/Pages/Weather.razor]

@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Assignment2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Assignment2.aycsmgpruw.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\css\\Footer.css",
+      "PackagePath": "staticwebassets\\css\\Footer.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\css\\players.css",
+      "PackagePath": "staticwebassets\\css\\players.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Academia\\4th Semester\\Visual Programming\\neww\\Assignment2\\Assignment2\\Assignment2\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Assignment2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Assignment2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Assignment2.props",
+      "PackagePath": "build\\Assignment2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment2.props",
+      "PackagePath": "buildMultiTargeting\\Assignment2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Assignment2.props",
+      "PackagePath": "buildTransitive\\Assignment2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

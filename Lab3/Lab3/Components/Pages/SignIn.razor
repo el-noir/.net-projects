@@ -1,0 +1,87 @@
+﻿@page "/signin"
+@rendermode InteractiveServer
+<h3>Sign In</h3>
+
+@if (!IsAuthenticated)
+{
+    <p>Please sign in to access the application.</p>
+
+    <div>
+        <label for="username">Username:</label>
+        <input id="username" @bind="username" />
+    </div>
+
+    <div>
+        <label for="password">Password:</label>
+        <input type="password" id="password" @bind="password" />
+    </div>
+
+    <button @onclick="SignInF">Sign In</button>
+}
+else
+{
+    @if (role == UserRole.SuperAdmin)
+    {
+        <p>You are signed in. Welcome to the <b>Superadmin</b> Account, @username!</p>
+    }
+    else if (role == UserRole.User)
+    {
+        <p>You are signed in. Welcome to the <b>User</b> Account, @username!</p>
+    }
+}
+
+<div style="color: red; margin-top: 10px;">@errorMessage</div>
+<div style="color: green; margin-top: 10px;">@successMessage</div>
+
+@code {
+    private bool IsAuthenticated = false;
+    private string username;
+    private string password;
+    private string errorMessage;
+    private string successMessage;
+    private UserRole role;
+
+    // Simulated user store (In real apps, use a database or Identity system)
+    private Dictionary<string, (string Password, UserRole Role)> users = new()
+    {
+        { "admin", ("123", UserRole.SuperAdmin) },
+        { "user", ("abc", UserRole.User) }
+    };
+
+    private void SignInF()
+    {
+        errorMessage = string.Empty;
+        successMessage = string.Empty;
+
+        if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
+        {
+            errorMessage = "Please enter both username and password.";
+            return;
+        }
+
+        if (users.TryGetValue(username, out var userInfo))
+        {
+            if (userInfo.Password == password)
+            {
+                IsAuthenticated = true;
+                role = userInfo.Role;
+                successMessage = $"Welcome, {username}!";
+            }
+            else
+            {
+                errorMessage = "Incorrect password.";
+            }
+        }
+        else
+        {
+            errorMessage = "User not found.";
+        }
+    }
+
+    // Enum for roles
+    enum UserRole
+    {
+        User,
+        SuperAdmin
+    }
+}
